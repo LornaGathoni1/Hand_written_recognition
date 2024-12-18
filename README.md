@@ -58,6 +58,17 @@ Hand_written_recognition/
 📊 Dataset Used
 
 The model is trained on the MNIST dataset, a collection of 70,000 handwritten digits (0-9).
+
+📸 Screenshots
+
+Here are some screenshots of the app in action:
+![Screenshot 2024-12-18 221640](https://github.com/user-attachments/assets/fe08a962-da27-4f6c-8f7f-aa332288d5a0)
+![Screenshot 2024-12-18 221925](https://github.com/user-attachments/assets/6915c3a3-7223-4f9e-b1e2-eba48ee84b04)
+![Screenshot 2024-12-18 222058](https://github.com/user-attachments/assets/6f3d970f-043e-4439-8d9c-6476f17e1eb9)
+
+
+
+
 🤝 Contributions
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
